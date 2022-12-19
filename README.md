@@ -1,4 +1,4 @@
-# Lab 28: Permissions & Postgresql
+# Lab 28: Authentication & Production Server
 
 # Author: Mohammad Alfayoume
 
