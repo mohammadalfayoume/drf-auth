@@ -6,6 +6,8 @@
 
 1. superuser: username: admin , password: admin
 
+2. user: username: mohammad , password: admin
+
 ## runserver
 
 `docker-compose up --build`
